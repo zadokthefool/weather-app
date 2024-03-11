@@ -1,0 +1,34 @@
+Pets at Home Technical Challenge: Build a Weather App
+
+Objective:
+frontend development skills, ability to consume APIs, handle data, create responsive UI, and apply best practices in frontend development.
+In Next.js and TypeScript.
+
+Instructions:
+Build a weather application that allows users to search for the current weather conditions of a city.
+You are required to use the WeatherAPI service (https://www.weatherapi.com/) to retrieve weather
+data.
+
+Requirements:
+The user interface should consist of at least two components: a search bar and a weather display
+section. 
+
+The search bar should allow users to enter the name of a city and initiate a search.
+Upon a successful search, display the current weather conditions of the city, including temperature,
+humidity, wind speed and any of the other properties.
+Try to make it visually appealing and responsive.
+
+Write clean, maintainable, and well-structured code, following best practices and industry
+standards.
+Use Git for version control and provide a GitHub repository link containing your code.
+Bonus (optional):
+Deploy the app to a hosting provider like Vercel so we can preview the app without having to run
+locally.
+Implement error handling for cases such as failed API requests or invalid city names.
+Add unit tests using tools like Jest, React Testing Library, Mocha, Chai, Enzyme etc. (2-3 tests would
+suffice)
+
+Submission:
+Share the link to your GitHub repository.
+
+Note: Feel free to use any additional libraries or tools
